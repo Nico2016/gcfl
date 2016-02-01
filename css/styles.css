@@ -1,0 +1,16 @@
+.filmList article {
+	clear: both;
+	padding : 6px 0;
+}
+.filmList article img {
+	float: left;
+	height : 200px;
+}
+.filmList article .content {
+	float: left;
+	width: 80%;
+}
+.filmList article .actions {
+	float: left;
+	width: 20%;
+}

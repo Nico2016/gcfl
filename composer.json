@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/gcfl",
+    "description": "gestion de copies legales de films",
+    "authors": [
+        {
+            "name": "Nicolas Guinoiseau",
+            "email": "guini187@hotmail.com"
+        }
+    ],
+    "require": {
+        "jleagle/omdb-imdb-api-client": "^0.1.0"
+    }
+}
